@@ -1,0 +1,21 @@
+{
+  "full_name": "Md Asraful Haque",
+  "name": "Sohel",
+  "current_role": "Senior DevOps Engineer",
+  "location": "Dhaka, Bangladesh",
+  "email": "asraful.haque@example.com",
+  "linkedin": "linkedin.com/in/asrafulhaque",
+  "specialties": [
+    "DevOps",
+    "AWS Solutions Architect",
+    "Automation"
+  ],
+  "years_experience": 18,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science  and Engineering",
+      "institution": "Jahangirnagar University",
+      "year": "2005 - 2007"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+I am a Senior DevOps Engineer  with 18 years of experience in IT Industry. 
+My expertise includes DevOps - DevSecOps - AWS Certified Solutions Architect - Obervability(Logging and Monitoring) - Java - Web
+Development - Team Lead - Scrum Master.
+
+Currently, I'm focused on DevOps and MLOps.
+
+I am a seasoned IT professional with 18+ years of experience spanning DevOps, Java development, web development and
+Golang expertise, bringing a unique blend of skills to deliver innovative and scalable solutions. With a strong foundation
+in software development and my diverse skill set enables me to design and optimize robust systems, automate processes,
+and drive seamless collaboration between development and operations teams.
+
